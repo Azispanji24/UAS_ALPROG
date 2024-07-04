@@ -1,2 +1,0 @@
-# UAS_ALPROG
-CPP
